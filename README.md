@@ -4,3 +4,4 @@ lo añadi para mostrar el comit desde GitHub
 añadi otra linea para demostrar como funciona fetch
 pero le erre en el tiempo
 esta linea es para mostrar como funciona pull
+lo edito para probar que no puedo hacer push sin hacer pull
